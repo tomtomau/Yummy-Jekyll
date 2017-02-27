@@ -1,8 +1,11 @@
 ---
-layout: post
 title: CSS Animation
-category: CSS
-tags: [css]
+date: 2016-04-22 00:00:00 Z
+categories:
+- CSS
+tags:
+- css
+layout: post
 ---
 
 Quick note about CSS animation. 
